@@ -1,7 +1,7 @@
 # hashcode-21-practice-round
 One of the Simplest Method arounds you..
 
-#### AUTHOR : ANSHUMAAN KUMAR PRASAD, <a href="https://github.com/aarohi11/">AAROHI AGARWAL</a>, <a href="https://github.com/Sshashank0743/">SHASHANK SHUKLA</a>
+#### AUTHOR : <a href="https://github.com/aarohi11/">AAROHI AGARWAL</a>, ANSHUMAAN KUMAR PRASAD, <a href="https://github.com/Sshashank0743/">SHASHANK SHUKLA</a>
 
 SCORES [Team Work] :
 
