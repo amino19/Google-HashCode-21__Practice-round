@@ -11,6 +11,4 @@ SCORES [Team Work] :
 Team Link :
 https://hashcodejudge.withgoogle.com/#/rounds/5751229732880384/
 
-![image](https://user-images.githubusercontent.com/75872316/112695678-86146480-8eaa-11eb-8e44-999b972aeae3.png)
-
 #### THANKS!
