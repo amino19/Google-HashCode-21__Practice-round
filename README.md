@@ -1,5 +1,6 @@
 # hashcode-21-practice-round
-One of the Simplest Method arounds you..
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> ![](https://img.shields.io/badge/Google-HashCode-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+
 
 #### AUTHOR : <a href="https://github.com/aarohi11/">AAROHI AGARWAL</a>, ANSHUMAAN KUMAR PRASAD, <a href="https://github.com/Sshashank0743/">SHASHANK SHUKLA</a>
 
